@@ -42,6 +42,8 @@ Contributed to the open-source community with integration into SQLiteHunter, bro
 Automated parsing of PST files to retrieve critical email evidence, streamlining the forensic analysis of phishing campaigns.
 Comprehensive extraction capabilities for email data and attachments, enabling detailed analysis of phishing indicators.
 Active development to add OST file support, further enhancing the tool's versatility in email forensics.
+
+Check out this [YouTube video](https://www.youtube.com/watch?v=2s2DIcFeKlM&t=1s) for more insights!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📁 Exploits-in-Python (https://github.com/sikhamohan/Exploits-in-Python)
