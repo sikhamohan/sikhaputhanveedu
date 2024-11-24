@@ -29,8 +29,7 @@ Here are some of my highlighted projects:
 
 **Highlights:**: 
 Enables efficient extraction of browser bookmarks, streamlining digital evidence collection and reducing investigation time.
-Compatibility with popular browsers to maximize forensic coverage.
-Contributed to the open-source community with integration into SQLiteHunter, broadening the tool’s application.
+Compatibility with popular browsers to maximize forensic coverage. Integrated into Velociraptor's SQLiteHunter, enhancing its usability for investigations.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📁 Velociraptor phishing email analysis plugin to parse outlook emails (https://github.com/Velocidex/velociraptor/pull/2788)
@@ -39,9 +38,9 @@ Contributed to the open-source community with integration into SQLiteHunter, bro
 **Tech Stack**: Velociraptor, Golang, Velociraptor Query Language (VQL)
 
 **Highlights**:
-**Automated parsing of PST files to retrieve critical email evidence, streamlining the forensic analysis of phishing campaigns.
-Comprehensive extraction capabilities for email data and attachments, enabling detailed analysis of phishing indicators.
-Active development to add OST file support, further enhancing the tool's versatility in email forensics.**
+**Automates PST file parsing to quickly gather key email evidence for phishing analysis.
+Extracts email data and attachments for detailed forensic investigation.
+Currently working on adding OST file support to expand its functionality.**
 
 Check out this [YouTube video](https://www.youtube.com/watch?v=2s2DIcFeKlM&t=1s) for more insights!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -52,9 +51,8 @@ Check out this [YouTube video](https://www.youtube.com/watch?v=2s2DIcFeKlM&t=1s)
 **Tech Stack**: Python, Burp Suite, Metasploit, Penetration Testing Techniques, Vulnerability Assessment Tools
 
 **Highlights**:
-Automated scripts to test for common web vulnerabilities, improving the efficiency of initial reconnaissance.
-Integration with tools like Burp Suite and Metasploit to validate exploit success and observe vulnerability impacts.
-Documentation for each exploit, explaining the vulnerability exploited, script usage, and expected outcomes for accurate testing.
+**Automated scripts to test for common web vulnerabilities, improving the efficiency of initial reconnaissance.
+Integration with tools like Burp Suite and Metasploit to validate exploit success and observe vulnerability impacts.**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🏆 Certifications and Training
