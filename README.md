@@ -69,7 +69,6 @@ Documentation for each exploit, explaining the vulnerability exploited, script u
 ## 🌐 Connect with Me
 
 - [![LinkedIn] www.linkedin.com/in/sikha-puthanveedu-88310666
-- 📧 [Email Me] sikha.cp27@gmail.com
 
 ---
 
