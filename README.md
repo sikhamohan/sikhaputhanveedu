@@ -27,7 +27,7 @@ Here are some of my highlighted projects:
 
 **Tech Stack**: Velociraptor, Velociraptor Query Language (VQL)
 
-**Highlights:**: 
+**Highlights:**
 Enables efficient extraction of browser bookmarks, streamlining digital evidence collection and reducing investigation time.
 Compatibility with popular browsers to maximize forensic coverage. Integrated into Velociraptor's SQLiteHunter, enhancing its usability for investigations.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
