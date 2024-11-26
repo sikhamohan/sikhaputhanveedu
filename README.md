@@ -3,7 +3,7 @@ This is about me!
 
 # 👋 Hi, I'm Sikha!
 
-I'm a passionate cybersecurity professional specializing in digital forensics, security operations and penetration testing. With a background in software development, digital forensics and security operations I'm dedicated to building secure and resilient systems.
+I'm a passionate cybersecurity professional specializing in digital forensics, incident response, security operations and penetration testing. With a background in software development, digital forensics and security operations I'm dedicated to building secure and resilient systems.
 
 ---
 
