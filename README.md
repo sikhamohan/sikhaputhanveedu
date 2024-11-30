@@ -66,7 +66,7 @@ Integration with tools like Burp Suite and Metasploit to validate exploit succes
 
 ## 🌐 Connect with Me
 
-- [![LinkedIn] www.linkedin.com/in/sikha-puthanveedu-88310666
+- [LinkedIn] www.linkedin.com/in/sikha-puthanveedu-88310666
 
 ---
 
