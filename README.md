@@ -3,15 +3,14 @@ This is about me!
 
 # 👋 Hi, I'm Sikha!
 
-I'm a passionate cybersecurity professional specializing in digital forensics, incident response, security operations and penetration testing. With a background in software development, digital forensics and security operations I'm dedicated to building secure and resilient systems.
-
+I'm a passionate cybersecurity professional specializing in digital forensics, incident response, security operations and penetration testing. With a background in software development, digital forensics and security operations, I help organizations strengthen their security posture by building secure and resilient systems tailored to their needs.
 ---
 
 ## 🔍 About Me
 
 - 🌍 Based in Toronto, Canada
 - 🎓 Education: Post graduation in  Cybersecurity Operations and Offensive Cybersecurity from York University. Bachelor of Technology in Computer Science from CUSAT, India.
-- 👩‍💻 Currently a SOC Analyst at First National Financial LP, Toronto
+- 👩‍💻 Currently a Splunk Consultant at Solsys, Toronto
 - 🔒 Skills: Digital Forensics, Incident Response, Penetration Testing, Python, Security Monitoring, Software development, Report writing.
 - 🛠️ Tools: Digital Forensic Tools(FTK Imager, Axiom, X-Ways, Autopsy, Eric Zimmerman's tools), EDR (CrowdStrike Falcon, MS Defender etc.) SIEM (Splunk, Microsoft Sentinel), Burp Suite, Metasploit, Velociraptor, 
               Wireshark, Git, Power BI, Visio
