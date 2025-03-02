@@ -31,7 +31,7 @@ Enables efficient extraction of browser bookmarks, streamlining digital evidence
 Compatibility with popular browsers to maximize forensic coverage. Integrated into Velociraptor's SQLiteHunter, enhancing its usability for investigations.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📁 Velociraptor phishing email analysis plugin to parse outlook emails (https://github.com/Velocidex/velociraptor/pull/4078)
+### 📁 Velociraptor phishing email analysis plugin to parse outlook emails (https://docs.velociraptor.app/vql_reference/other/parse_pst/)
 **Description**: Designed and implemented a phishing email analysis plugin (parse_pst) for the Velociraptor DFIR platform to parse and analyze Outlook PST files. This plugin extracts email headers, content, and attachments, enabling investigators to conduct in-depth phishing email analysis with ease. Currently working on expanding functionality to support OST files for broader application in email forensics.
 
 **Tech Stack**: Velociraptor, Golang, Velociraptor Query Language (VQL)
