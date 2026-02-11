@@ -3,7 +3,7 @@ This is about me!
 
 # 👋 Hi, I'm Sikha!
 
-I'm a passionate cybersecurity professional specializing in digital forensics, incident response, security operations and penetration testing. With a background in software development, digital forensics and security operations, I help organizations strengthen their security posture by building secure and resilient systems tailored to their needs.
+I'm a passionate cybersecurity professional specializing in SIEM engineering, digital forensics, incident response, security operations and penetration testing. With a background in SIEM engineering, software development, digital forensics and security operations, I help organizations strengthen their security posture by building secure and resilient systems tailored to their needs.
 ---
 
 ## 🔍 About Me
